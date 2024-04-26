@@ -551,16 +551,16 @@ nav a {
         margin-top: 50px !important;
     }
 
-    .mb-md-5 {
-        margin-bottom: 5%;
-    }
-
     .flex-column-md-reverse {
         flex-direction: column-reverse;
     }
 
     .center-md-text {
         text-align: center;
+    }
+
+    .Subscribe-md-mb {
+        margin-bottom: 30px;
     }
 }
 
