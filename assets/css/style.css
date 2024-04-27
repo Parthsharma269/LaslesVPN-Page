@@ -128,7 +128,7 @@
     outline: none;
     border-radius: 10px;
     background: #F53838;
-    box-shadow: 0px, 20px, 20px, 0px #F5383859;
+    box-shadow: 0px, 20px, 20px, 0px #F5383859 !important;
 }
 
 .Select {
@@ -150,7 +150,7 @@
     outline: none;
     border-radius: 10px;
     background: #F53838;
-    box-shadow: 0px, 20px, 20px, 0px #F5383859;
+    box-shadow: 0px, 20px, 20px, 0px #F5383859 !important;
 }
 
 .pl-16 {
@@ -291,7 +291,7 @@ nav a {
     padding: 50px;
     border-radius: 10px;
     background: #ffffff;
-    box-shadow: 0px 14px 87px -48px #000000;
+    box-shadow: 0px 0px 100px -70px #000000;
 }
 
 .footer_box {
@@ -301,7 +301,7 @@ nav a {
     border-radius: 10px;
     background: #ffffff;
     transform: translate(0px, 156px);
-    box-shadow: 0px 14px 87px -48px #000000;
+    box-shadow: 0px 0px 100px -70px #000000;
 }
 
 .box_1 {
